@@ -8,3 +8,5 @@ my first version controlled project
 *java
 
 [nicolas cui](http://sqasolution.com)
+
+a change!
